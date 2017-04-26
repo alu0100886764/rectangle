@@ -1,0 +1,19 @@
+{
+  "name": "ull-shape-rectangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rectangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alu0100886764/rectangle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alu0100886764/rectangle/issues"
+  },
+  "homepage": "https://github.com/alu0100886764/rectangle#readme"
+}
